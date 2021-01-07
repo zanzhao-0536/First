@@ -1,1 +1,2 @@
 black is a dog
+my is a clone
